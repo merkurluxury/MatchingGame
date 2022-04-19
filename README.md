@@ -1,4 +1,8 @@
 
+1190505023 Furkan Kabak
+1190505058 İbrahim Serhat Demircioğlu
+1190505015 Rahim Türkmen
+
 # MatchingGame Android Mobil Uygulaması
 
 _ * Bu uygulama Android Studio üzerine inşa edilmiştir, Java dili ile kodlanmıştır.
@@ -19,7 +23,7 @@ Uygulama başlatıldıktan sonra, karşımıza ana arayüz çıkacaktır.
 
 
 
-Kullanıcıların seçebilecekleri üç sürümü vardır:
+Kullanıcıların seçebilecekleri 2 sürümü vardır:
 1. "Oyunu Başlat 4x4": 4x4 ızgara - 2 görüntüden oluşan 8 set eşleştir
 2. "Oyunu Başlat 6x6": 6x6 ızgara - 2 görüntüden oluşan 18 set eşleştir
 
