@@ -1,7 +1,5 @@
 
-1190505023 Furkan Kabak
-1190505058 İbrahim Serhat Demircioğlu
-1190505015 Rahim Türkmen
+
 
 # MatchingGame Android Mobil Uygulaması
 
